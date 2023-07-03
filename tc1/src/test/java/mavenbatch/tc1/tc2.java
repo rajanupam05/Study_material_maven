@@ -7,6 +7,8 @@ import org.json.JSONObject;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 
+
+//// post http method using jsonobject class & simple format with the help of json.org
 public class tc2
 {
 	public static void main(String[] args) 
