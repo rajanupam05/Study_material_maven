@@ -5,7 +5,7 @@ import static io.restassured.RestAssured.*;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 
-/// using jsonobject i.e ( { *object notation* } ) class with simple format in org.json way
+
 
 public class tc1 
 {
